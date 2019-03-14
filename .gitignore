@@ -1,0 +1,11 @@
+# Forum-Mobile-API-V.0
+sites/*/local.settings.inc
+sites/*/settings.php
+
+
+# Ignore paths that contain generated content.
+sites/*/files
+sites/*/private
+.idea/
+.idea
+.htaccess
